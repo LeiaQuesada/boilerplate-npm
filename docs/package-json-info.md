@@ -9,3 +9,6 @@ Semantic Versioning System:
 
 Use of a Tilde-Character(~) will always use the latest patch version of a dependency.
 - To allow an npm dependency to update to the latest PATCH version, you can prefix the dependency’s version with the tilde (~) character. 
+
+Use the caret (^) to prefix the version in your dependencies to allow npm to update it to any new MINOR release.
+
