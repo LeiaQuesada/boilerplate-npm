@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Leia Quesada"
+	"author": "Leia Quesada",
+	"description": "A project that follows freecodecamp.org's Back End Development and APIs course"
 }
