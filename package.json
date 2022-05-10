@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-    	"moment": "2.14.0"
+    "moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -14,7 +14,7 @@
 	},
   "license": "MIT",
   "version": "1.2.0",
-	"author": "Leia Quesada",
-	"description": "A project that follows freecodecamp.org's Back End Development and APIs course",
+  "author": "Leia Quesada",
+  "description": "A project that follows freecodecamp.org's Back End Development and APIs course",
   "keywords": [ "freecodecamp", "database", "practice" ]
 }
